@@ -10,6 +10,6 @@ C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_
 C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\obj\Debug\DelaFuente_bsit-2B_OOP.xml
 C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\obj\Debug\DelaFuente_bsit-2B_OOP.pdb
 C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\obj\Debug\DelaFuente_bsit_2B_OOP.frmUserNew.resources
-C:\Users\rylle\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\obj\Debug\DelaFuente_bsit-2B_OOP.exe
-C:\Users\rylle\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\obj\Debug\DelaFuente_bsit-2B_OOP.xml
-C:\Users\rylle\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\obj\Debug\DelaFuente_bsit-2B_OOP.pdb
+D:\Rylle DF\Visual fckn Studio\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\obj\Debug\DelaFuente_bsit-2B_OOP.exe
+D:\Rylle DF\Visual fckn Studio\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\obj\Debug\DelaFuente_bsit-2B_OOP.xml
+D:\Rylle DF\Visual fckn Studio\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\obj\Debug\DelaFuente_bsit-2B_OOP.pdb

@@ -14,7 +14,7 @@ Module Routes
 
 
     End Function
-    Public Sub findthis(ByVal sql As String)
+    Public Sub findUser(ByVal sql As String)
         Try
             con.Open()
             With cmd
