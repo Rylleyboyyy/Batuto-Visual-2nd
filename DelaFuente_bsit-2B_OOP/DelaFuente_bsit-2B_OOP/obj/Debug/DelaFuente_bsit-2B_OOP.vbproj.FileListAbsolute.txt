@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\obj\Debug\DelaFuente_bsit_2B_OOP.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\obj\Debug\DelaFuente_bsit_2B_OOP.frmUserList.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\obj\Debug\DelaFuente_bsit-2B_OOP.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\obj\Debug\DelaFuente_bsit_2B_OOP.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\bin\Debug\DelaFuente_bsit-2B_OOP.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\bin\Debug\DelaFuente_bsit-2B_OOP.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\bin\Debug\DelaFuente_bsit-2B_OOP.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\obj\Debug\DelaFuente_bsit-2B_OOP.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\obj\Debug\DelaFuente_bsit-2B_OOP.xml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\obj\Debug\DelaFuente_bsit-2B_OOP.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\obj\Debug\DelaFuente_bsit_2B_OOP.frmUserNew.resources
+C:\Users\rylle\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\obj\Debug\DelaFuente_bsit-2B_OOP.exe
+C:\Users\rylle\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\obj\Debug\DelaFuente_bsit-2B_OOP.xml
+C:\Users\rylle\Documents\Visual Studio 2008\Projects\DelaFuente_bsit-2B_OOP\DelaFuente_bsit-2B_OOP\obj\Debug\DelaFuente_bsit-2B_OOP.pdb
