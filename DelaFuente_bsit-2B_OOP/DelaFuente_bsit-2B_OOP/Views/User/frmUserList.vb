@@ -15,6 +15,11 @@
     End Sub
 
     Private Sub btnDelete_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnDelete.Click
+        rylleDelete("DELETE FROM `tblusers` WHERE `AUTOID`='" & dgvUserList.CurrentRow.Cells(0).Value & "'")
+        dgvUserList.Rows.Clear()
+        findUser("SELECT * FROM `tblusers`")
+        loadUser(dgvUserList, "6")
+
     End Sub
 
     Private Sub btnEdit_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnEdit.Click
@@ -24,6 +29,8 @@
             .txtUsername.Text = dgvUserList.CurrentRow.Cells(2).Value
             .txtPassword.Text = dgvUserList.CurrentRow.Cells(3).Value
             .txtConfirmPassword.Text = dgvUserList.CurrentRow.Cells(3).Value
+
+            .btnSave.Text = "Update"
             .Show()
         End With
     End Sub

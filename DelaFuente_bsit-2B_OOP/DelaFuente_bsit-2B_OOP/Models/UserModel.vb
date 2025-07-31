@@ -7,7 +7,7 @@ Module UserModel
     Public dReader As MySqlDataReader
 
 
-    Public Sub LoadUser(ByVal obj As Object, ByVal param As String)
+    Public Sub loadUser(ByVal obj As Object, ByVal param As String)
         Try
 
             con.Open()

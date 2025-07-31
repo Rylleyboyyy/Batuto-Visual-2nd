@@ -9,8 +9,7 @@ Module Routes
     Public con As MySqlConnection = myconn()
 
     Public Function myconn() As MySqlConnection
-        Return New MySqlConnection("server=" & server & ";user id=" & _
-            serveruser & ";password=" & password & ";database=" & databasename & "")
+        Return New MySqlConnection("server=" & server & ";user id=" & serveruser & ";password=" & password & ";database=" & databasename & "")
 
 
     End Function
@@ -39,8 +38,58 @@ Module Routes
 
                 result = cmd.ExecuteNonQuery
                 If result = 0 Then
+                    MsgBox("No Data Inserted!")
                     Return False
                 Else
+                    MsgBox("Data Inserted!")
+                    Return True
+                End If
+            End With
+        Catch ex As Exception
+            MsgBox(ex.Message, MsgBoxStyle.Information)
+        Finally
+            da.Dispose()
+            con.Close()
+        End Try
+    End Function
+    Public Function rylleUpdate(ByVal sql As String) As Boolean
+        Dim result As Integer
+        Try
+            con.Open()
+            With cmd
+                .Connection = con
+                .CommandText = sql
+
+                result = cmd.ExecuteNonQuery
+                If result = 0 Then
+                    MsgBox("No Data Inserted!")
+                    Return False
+                Else
+                    MsgBox("Data Inserted!")
+                    Return True
+                End If
+            End With
+        Catch ex As Exception
+            MsgBox(ex.Message, MsgBoxStyle.Information)
+        Finally
+            da.Dispose()
+            con.Close()
+        End Try
+    End Function
+    Public Function rylleDelete(ByVal sql As String) As Boolean
+        Dim result As Integer
+        Try
+            con.Open()
+            With cmd
+                .Connection = con
+                .CommandText = sql
+
+                result = cmd.ExecuteNonQuery
+                If result = 0 Then
+                    MsgBox("No Data Deleted!")
+                    Return False
+                Else
+                    MsgBox("Data Deleted!")
                     Return True
                 End If
             End With

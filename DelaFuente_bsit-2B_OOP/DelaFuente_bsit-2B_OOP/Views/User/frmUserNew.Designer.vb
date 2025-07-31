@@ -37,21 +37,23 @@ Partial Class frmUserNew
         '
         'btnCancel
         '
+        Me.btnCancel.BackColor = System.Drawing.Color.Transparent
         Me.btnCancel.Location = New System.Drawing.Point(575, 425)
         Me.btnCancel.Name = "btnCancel"
         Me.btnCancel.Size = New System.Drawing.Size(75, 27)
         Me.btnCancel.TabIndex = 0
         Me.btnCancel.Text = "Cancel"
-        Me.btnCancel.UseVisualStyleBackColor = True
+        Me.btnCancel.UseVisualStyleBackColor = False
         '
         'btnSave
         '
+        Me.btnSave.BackColor = System.Drawing.Color.OliveDrab
         Me.btnSave.Location = New System.Drawing.Point(656, 425)
         Me.btnSave.Name = "btnSave"
         Me.btnSave.Size = New System.Drawing.Size(75, 27)
         Me.btnSave.TabIndex = 1
         Me.btnSave.Text = "Save"
-        Me.btnSave.UseVisualStyleBackColor = True
+        Me.btnSave.UseVisualStyleBackColor = False
         '
         'Label1
         '
